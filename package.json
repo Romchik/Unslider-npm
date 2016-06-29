@@ -2,6 +2,7 @@
   "name": "jquery-unslider",
   "version": "1.0.0",
   "description": "A Repackage of the popular Unslider plugin for NPM.",
+  "main": "src/js/unslider.js",
   "styles": [
     "dist/css/unslider.css",
     "dist/css/unslider-dots.css"
