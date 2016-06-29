@@ -1,29 +1,27 @@
 {
   "name": "jquery-unslider",
-  "version": "1.0.0",
-  "description": "A Repackage of the popular Unslider plugin for NPM.",
+  "version": "1.0.2",
+  "description": "Repackage of Unslider jQuery slider",
   "main": "src/js/unslider.js",
-  "styles": [
-    "dist/css/unslider.css",
-    "dist/css/unslider-dots.css"
-  ],
-  "main": "src/js/unslider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JoshDonnell/Unslider-npm.git"
   },
   "keywords": [
-    "slider",
     "jquery",
     "unslider",
-    "carousel"
+    "slider"
   ],
-  "author": [
-    "Josh Donnell <joshua.donnell1@gmail.com>"
-  ],
+  "author": "Josh Donnell",
   "license": "MIT",
-  "homepage": "https://github.com/JoshDonnell/Unslider-npm",
+  "bugs": {
+    "url": "https://github.com/JoshDonnell/Unslider-npm/issues"
+  },
+  "homepage": "https://github.com/JoshDonnell/Unslider-npm/issues#readme",
   "dependencies": {
-    "jquery": "^2.1.4"
+    "jquery": "^2.2.3"
   }
 }
