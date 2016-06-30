@@ -1,0 +1,52 @@
+This is a repackage of the popular lightweight jQuery slider Unslider to work with both NPM and Bower.
+
+
+Downloading
+-----------
+
+FOR NPM
+
+npm install jquery-unslider --save
+
+FOR BOWER 
+coming very soon
+
+
+
+Documentation
+-------------
+
+To use with JS
+require('jquery-unslider');
+
+To use with SASS
+@import 'node_modules/jquery-unslider/dist/sass/unslider.scss';
+@import 'node_modules/jquery-unslider/dist/sass/unslider-dots.scss';
+
+To use with LESS
+coming soon
+
+
+Offical documention at:
+
+http://unslider.com/
+
+Visit the official site for a guide on using the package
+
+
+Development
+-----------
+
+As new versions are Unslider are released this package will be updated allow up to 48hrs from a new release for the update to be merged into this package.
+
+
+Bug Reporting
+-------------
+
+Any bugs please report to:
+
+https://github.com/JoshDonnell/Unslider-npm/issues
+
+or the offical bug reporting:
+
+https://github.com/idiot/unslider/issues
