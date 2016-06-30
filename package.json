@@ -1,8 +1,9 @@
 {
   "name": "jquery-unslider",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Repackage of Unslider jQuery slider",
-  "main": "src/js/unslider.js",
+  "main": "dist/js/unslider-min.js",
+  "style" : "dist/sass/*.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
